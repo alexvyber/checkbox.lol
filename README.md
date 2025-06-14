@@ -23,3 +23,4 @@ Do the app that works with as many checkboxes, as possible
 15. App should be well-protected against bots and scripts
 16. App should be scalable horizontally basically up to infinite number of checkboxes
 17. Custon protocol, which sends the smallest payload: addresses to flip or entire block
+18. Use as much effect-ts as possible.
